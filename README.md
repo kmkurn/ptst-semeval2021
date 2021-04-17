@@ -13,10 +13,10 @@ the required dependencies with:
 conda env create -n [env] -f environment.yml
 ```
 
-Replace `[env]` with your desired environment. Once created, activate the environment. The
+Replace `[env]` with your desired environment name. Once created, activate the environment. The
 command above also installs the CPU version of PyTorch. If you need the GPU version, follow
 the corresponding PyTorch installation docs afterwards. If you're using other package manager
-(e.g., pip), you can look at the environment.yml file to see what the requirements are.
+(e.g., pip), you can look at the `environment.yml` file to see what the requirements are.
 
 ## Get the data
 
