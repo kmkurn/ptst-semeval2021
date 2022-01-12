@@ -1,8 +1,24 @@
 # Parsimonious Transfer for Sequence Tagging
 
-This repository contains the code for the University of Melbourne's submission (PTST-UoM) in
+This repository contains the code for the [University of Melbourne's submission (PTST-UoM)](https://aclanthology.org/2021.semeval-1.54/) in
 SemEval 2021 Task 10: Source-Free Domain Adaptation for Semantic Processing, subtask time
 expression recognition.
+
+## Citation
+
+```
+@inproceedings{kurniawan2021a,
+  title = {{{PTST-UoM}} at {{SemEval-2021 Task}} 10: {{Parsimonious Transfer}} for {{Sequence Tagging}}},
+  shorttitle = {{{PTST-UoM}} at {{SemEval-2021 Task}} 10},
+  booktitle = {Proceedings of the 15th {{International Workshop}} on {{Semantic Evaluation}} ({{SemEval-2021}})},
+  author = {Kurniawan, Kemal and Frermann, Lea and Schulz, Philip and Cohn, Trevor},
+  year = {2021},
+  month = aug,
+  pages = {445--451},
+  doi = {10.18653/v1/2021.semeval-1.54},
+  url = {https://aclanthology.org/2021.semeval-1.54},
+}
+```
 
 ## Installing requirements
 
